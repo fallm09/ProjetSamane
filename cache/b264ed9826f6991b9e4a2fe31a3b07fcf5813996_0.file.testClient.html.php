@@ -1,17 +1,17 @@
 <?php
-/* Smarty version 3.1.30, created on 2020-08-24 22:30:06
-  from "C:\xampp\htdocs\Mesdossiers\projetSamane\samanemvc-master\src\view\client\testClient.html" */
+/* Smarty version 3.1.30, created on 2020-08-24 22:36:50
+  from "C:\xampp\htdocs\Mesdossiers\projetSamane\samanemvc-master\src\view\Client\testClient.html" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.30',
-  'unifunc' => 'content_5f44234eef2162_11713159',
+  'unifunc' => 'content_5f4424e2d53a31_99439477',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
-    '2f8c2eb45caeefec053f754148855a12043eef67' => 
+    'b264ed9826f6991b9e4a2fe31a3b07fcf5813996' => 
     array (
-      0 => 'C:\\xampp\\htdocs\\Mesdossiers\\projetSamane\\samanemvc-master\\src\\view\\client\\testClient.html',
+      0 => 'C:\\xampp\\htdocs\\Mesdossiers\\projetSamane\\samanemvc-master\\src\\view\\Client\\testClient.html',
       1 => 1598298900,
       2 => 'file',
     ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5f44234eef2162_11713159 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5f4424e2d53a31_99439477 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <!DOCTYPE html>
 <html lang="en">

@@ -58,7 +58,7 @@ class Autoloader
                   dans votre application.
                   <br/> Ou encore vous vous êtes trompés sur l'hortographe!!!!";
       require_once "libs/system/SM_Error.lib.class.php";
-      $error = new SM_Error();
+      $error = new libs\system\SM_Error();
       $error->messageError($message);
     }
   }
